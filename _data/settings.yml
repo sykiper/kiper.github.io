@@ -11,7 +11,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/yagmurkiper'}
-- {icon: 'scholar', link: 'https://scholar.google.com/citations?user=_4wll80AAAAJ&hl=en&oi=ao'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=_4wll80AAAAJ&hl=en&oi=ao'}
 - {icon: 'linkedin', link: 'www.linkedin.com/in/yagmur-kiper'}
 
 presentations:
