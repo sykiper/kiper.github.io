@@ -1,9 +1,9 @@
 menu:
-- {name: 'about', url: '/about'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+- {name: 'about', url: '/about'}
 
 about:
 
