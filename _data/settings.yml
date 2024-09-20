@@ -2,6 +2,7 @@ menu:
 - {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 - {name: 'presentations', url: '/presentations'}
+- {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
 - {name: 'about', url: '/about'}
 
