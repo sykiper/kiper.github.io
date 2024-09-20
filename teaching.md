@@ -3,7 +3,6 @@ layout: teaching
 title: "Teaching"
 ---
 
-<h2>Teaching History</h2>
 
 <h3>Courses Taught</h3>
 <ul>
